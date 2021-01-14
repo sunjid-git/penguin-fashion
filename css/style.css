@@ -109,6 +109,11 @@ input{
     border-radius: .5em;
 }
 
+/* product sizing */
+.product-img{
+    width: 100px;
+    height: 125px;
+}
 
 
 
